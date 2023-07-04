@@ -1,5 +1,5 @@
 # Goals Mobile Practice Application
-<img src='./img/goalApp.png' width='250'>
+<img src='./img/log2.png' width='250'/>
 ---
 
 # About
